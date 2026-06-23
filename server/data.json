@@ -1,0 +1,38 @@
+{
+  "users": {
+    "arjunthakurmed@gmail.com": {
+      "name": "Arjun",
+      "email": "arjunthakurmed@gmail.com",
+      "passwordHash": "$2a$10$IA2LVhvw4nVrwGf6Ylv86OOFRgcYSbVDa7P27T0Z5bHk4FFBdCuqC",
+      "notes": [
+        {
+          "id": "note-1782146101568",
+          "title": "daily routine",
+          "content": "hi my name is arjun",
+          "category": "Personal",
+          "updatedAt": "2026-06-22T16:35:01.568Z"
+        }
+      ]
+    },
+    "2416441.cse.coe@cgc.edu.in": {
+      "name": "AAlok",
+      "email": "2416441.cse.coe@cgc.edu.in",
+      "passwordHash": "$2a$10$hVypA4j/FDpBKhubJI09a.Z2F8bPcTvB8jcXuarvdYtNy2XkYvvtu",
+      "notes": []
+    },
+    "aal@gmail.com": {
+      "name": "sansa",
+      "email": "aal@gmail.com",
+      "passwordHash": "$2a$10$60XlkjZ7tI9bq2CdmEnTh.nRjVFmk2N.cOB7I2bjyWTvK84Wn4L0K",
+      "notes": [
+        {
+          "id": "note-1782147718274",
+          "title": "VVHCGHCHGC",
+          "content": "NBJHJCJC",
+          "category": "Personal",
+          "updatedAt": "2026-06-22T17:01:58.274Z"
+        }
+      ]
+    }
+  }
+}
