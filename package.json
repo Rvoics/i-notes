@@ -9,7 +9,11 @@
     "preview": "vite preview",
     "lint": "eslint ."
   },
-  "dependencies": {},
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "concurrently": "^8.2.2",
